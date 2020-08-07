@@ -83,7 +83,7 @@ const App = () => {
 
     return (
         <div className="App">
-            <Header text="React HOOKS"/>
+            <Header text="React Hooks"/>
             <Search search={search}/>
             <p className="App-intro">Sharing a few of our favourite movies</p>
             <div className="movies">
